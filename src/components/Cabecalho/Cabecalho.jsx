@@ -6,19 +6,16 @@ export default function Cabecalho() {
       <header className="bg-gray-800 text-white p-2">
         <nav className="p-linha ">
           <p>
-            <Link href="/login">LOGIN</Link>
+            <Link href="/">GuinchoSeguro</Link>
           </p>
           <p>
-            <Link href="/produtos/calca">CALÇA</Link>
+            <Link href="/">Home</Link>
           </p>
           <p>
-            <Link href="/produtos/camisa">CAMISA</Link>
+            <Link href="/">ChatBot</Link>
           </p>
           <p>
-            <Link href="/produtos/meia">MEIA</Link>
-          </p>
-          <p>
-            <Link href="/produtos/tenis">TÊNIS</Link>
+            <Link href="/">Quem Somos</Link>
           </p>
         </nav>
       </header>
