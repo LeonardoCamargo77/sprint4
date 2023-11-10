@@ -1,9 +1,19 @@
-
 export default function Rodape() {
     return (
-      <footer className="bg-slate-800 p-2 h-20 text-center fixed w-full bottom-0 text-white text-2xl">
-            <p className="p-5">&copy;Todos os direitos reservados - 2023</p>
-      </footer>
-    )
+      <div className="min-h-screen flex flex-col p-4 relative">
+       
+        <footer className="fixed bottom-0 left-0 w-full bg-rgb-190-190-202 h-20 flex items-center justify-between">
+          <p className="ml-4 text-black font-italic">Todos os direitos reservados</p>
+  
+          <div className="flex items-center space-x-4 mr-4">
+            <img src="/img/git.png" alt="GitHub" className="h-9 w-9" />
+            <img src="/img/face.png" alt="Facebook" className="h-9 w-9" />
+            <img src="/img/twitter.png" alt="Twitter" className="h-9 w-9" />
+            <img src="/img/porto3.png" alt="PortoSeguro" className="h-10 w-10" />
+           
+          </div>
+        </footer>
+      </div>
+    );
   }
   
