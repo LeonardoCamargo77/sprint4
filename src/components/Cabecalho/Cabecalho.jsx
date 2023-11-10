@@ -9,13 +9,13 @@ export default function Cabecalho() {
         </p>
         <nav className="cabecalhoo flex items-center">
           <p className="mx-2">
-            <Link href="/">Home</Link>
+            <Link href="/pagesguincho/home">Home</Link>
           </p>
           <p className="mx-2">
-            <Link href="/">ChatBot</Link>
+            <Link href="/pagesguincho/chatbot">ChatBot</Link>
           </p>
           <p className="mx-2">
-            <Link href="/">Quem Somos</Link>
+            <Link href="/pagesguincho/quemsomos">Quem Somos</Link>
           </p>
         </nav>
       </header>
