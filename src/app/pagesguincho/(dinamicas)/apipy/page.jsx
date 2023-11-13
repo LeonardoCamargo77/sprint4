@@ -6,6 +6,7 @@ export default function ApiPython() {
       <h1 className="text-5xl font-serif text-center mt-16 mb-24">API Python</h1>
 
       <div className="flex justify-center space-x-8">
+        
       
 
        
