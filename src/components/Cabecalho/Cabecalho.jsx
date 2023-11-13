@@ -15,10 +15,7 @@ export default function Cabecalho() {
             <Link href="/pagesguincho/chatbot">ChatBot</Link>
           </p>
           <p className="mx-0 text-lg hover:text-blue-500"> 
-            <Link href="/pagesguincho/apijava">Java</Link>
-          </p>
-          <p className="mx-0 text-lg hover:text-blue-500"> 
-            <Link href="/pagesguincho/apipy">Python</Link>
+            <Link href="/pagesguincho/apipy">Formulário</Link>
           </p>
           <p className="mx-0 text-lg hover:text-blue-500"> 
             <Link href="/pagesguincho/quemsomos">Quem Somos</Link>
