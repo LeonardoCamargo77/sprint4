@@ -37,7 +37,7 @@ export default function QuemSomos() {
 
         <div className="mb-2 overflow-hidden rounded-xl transform hover:rotate-3 transition-transform duration-300">
           <figure className="flex flex-col items-center">
-            <Image src="/img/nathan.jpeg" alt="nathan" width={310} height={550} />
+            <Image src="/img/nathan.jpeg" alt="nathan" width={310} height={600} />
             <figcaption className="text-center font-thin text-lg">Nathan Nunes - 552539</figcaption>
           </figure>
         </div>
