@@ -19,6 +19,9 @@ export default function Rodape() {
           <a href="https://portoseguro.com.br" target="_blank" rel="noopener noreferrer" className="text-black">
             <img src="/img/porto3.png" alt="PortoSeguro" className="h-11 w-11" />
           </a>
+          <a href="" target="_blank" rel="noopener noreferrer" className="text-black">
+            <img src="/img/vercel.png" alt="Vercel" className="h-10 w-10" />
+          </a>
         </div>
       </footer>
     </div>
