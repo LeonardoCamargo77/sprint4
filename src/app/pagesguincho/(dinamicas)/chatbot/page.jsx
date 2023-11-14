@@ -7,7 +7,7 @@ export default function Chatbot() {
 
       <div className="flex justify-center space-x-8">
         <div className="mb-2">
-          <figure className="flex flex-col items-center">
+          <figure className="flex flex-col items-center mb-2 overflow-hidden rounded-xl transform hover:rotate-3 transition-transform duration-300">
             <Image src="/img/chatbot.png" alt="iamgemchatbot" width={800} height={800} />
             <figcaption className="text-center text-xl font-medium">O ChatBot será a primeira etapa para o início do processo de solicitação de guincho. O segurado deverá enviar mensagens via Telegram informando seus dados básicos como Nome, CPF, RG e número de apólice, em seguida, ele será encaminhado para o GuinchoSeguro, onde deverá selecionar as características que mais se adequal ao seu veículo, para que elas possam ser analisadas antes do envio do guincho.</figcaption>
           </figure>
