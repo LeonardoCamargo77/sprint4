@@ -23,7 +23,7 @@ export default function QuemSomos() {
 
         <div className="mb-2 overflow-hidden rounded-xl transform hover:rotate-3 transition-transform duration-300">
           <figure className="flex flex-col items-center">
-            <Image src="/img/geovana.jpeg" alt="geovana" width={300} height={300} />
+            <Image src="/img/geovana.jpeg" alt="geovana" width={300} height={310} />
             <figcaption className="text-center font-thin text-lg">Geovana Ribeiro - 99646</figcaption>
           </figure>
         </div>
