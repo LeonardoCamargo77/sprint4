@@ -24,7 +24,7 @@ export default function NotFound() {
           </Link>
           <div className="mb-4 overflow-hidden rounded-xl transform hover:rotate-3 transition-transform duration-300">
         <figure className="flex flex-col items-center">
-          <Image src="/img/killua.jpg" alt="Killua" width={200} height={200} />
+          <Image src="/img/canari.jpg" alt="Canari" width={300} height={300} />
           <figcaption className="text-center font-thin text-lg"></figcaption>
         </figure>
       </div>
