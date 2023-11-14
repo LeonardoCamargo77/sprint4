@@ -36,3 +36,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 Para acessar o banco de dados utilize o login: rm552539 / senha: 130701
+Para funcionar as API's é necessário ter baixado o projeto Java e Python e rodá-los. 
+VScode: Python
+Eclipse: Java (É necessário ter o tomcat v10.1)
+
+Link do repositório para baixar os projetos
+Python: https://github.com/NathanNunesCalsonari/Sprint4__Python
+Java: https://github.com/NathanNunesCalsonari/Sprint4_Java
