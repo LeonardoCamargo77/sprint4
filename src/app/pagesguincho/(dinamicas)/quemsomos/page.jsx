@@ -41,6 +41,11 @@ export default function QuemSomos() {
           </figure>
         </div>
 
+        <div>
+        <div className="mx-auto max-w-screen-xl">
+      <h1 className="text-5xl font-serif text-center mt-16 mb-24">Link do repositório:</h1>
+        </div>
+        </div>
 
       </div>
     </div>
