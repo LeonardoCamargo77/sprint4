@@ -16,7 +16,7 @@ export default function NotFound() {
       </div>
 
       <div className="flex justify-end mt-4">
-        <p className="text-center text-2xl font-bold">Mas fique calmo!!! Clique no botão e retorne a Home, amigo...</p>
+        <p className="text-center text-2xl font-bold">Mas fique calmo!!!! Clique no botão e retorne a Home, amigo...</p>
         <Link href="/">
           <div className="border border-blue-500 py-2 px-6 rounded-full text-blue-500 hover:bg-blue-500 hover:text-white cursor-pointer">
             HOME
