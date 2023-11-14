@@ -18,7 +18,7 @@ export default function Cabecalho() {
             <Link href="/pagesguincho/quemsomos">Quem Somos</Link>
           </p>
           <p className="mx-0 text-lg hover:text-blue-500"> 
-            <Link href="/pagesguincho/apipy">Cadastrar</Link>
+            <Link href="/pagesguincho/apipy">Funcionários</Link>
           </p>
          
         </nav>
