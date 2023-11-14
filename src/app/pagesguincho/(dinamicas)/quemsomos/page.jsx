@@ -44,19 +44,19 @@ export default function QuemSomos() {
 
         </div>
 
-    <div className="mx-auto max-w-screen-xl">
-      <h1 className="text-4xl font-serif text-center mt-16 mb-24">Link do repositório:</h1>
-      <Link href="https://github.com/LeonardoCamargo77/sprint4.git">
-          <div className=" text-center border border-blue-500 py-2 px-6 rounded-full text-blue-500 hover:bg-blue-500 hover:text-white cursor-pointer">
+        <div className="mx-auto max-w-screen-xl">
+        <h1 className="text-4xl font-serif text-center mt-16 mb-4">Link do repositório:</h1>
+        <Link href="https://github.com/LeonardoCamargo77/sprint4.git">
+          <div className="mb-4 text-center border border-blue-500 py-2 px-6 rounded-full text-blue-500 hover:bg-blue-500 hover:text-white cursor-pointer">
             Repositório
           </div>
-      </Link>
-      <Link href="https://sprint4-vert.vercel.app/">
-          <div className=" text-center border border-blue-500 py-2 px-6 rounded-full text-blue-500 hover:bg-blue-500 hover:text-white cursor-pointer">
+        </Link>
+        <Link href="https://sprint4-vert.vercel.app/">
+          <div className="text-center border border-blue-500 py-2 px-6 rounded-full text-blue-500 hover:bg-blue-500 hover:text-white cursor-pointer">
             Vercel
           </div>
-      </Link>
+        </Link>
+      </div>
     </div>
-    </div>
-);
+  );
 }
