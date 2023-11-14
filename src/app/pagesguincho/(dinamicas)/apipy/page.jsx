@@ -13,10 +13,12 @@ export default function ApiPython() {
             Funcionários
           </div>
         </Link>
+        <div className="mb-2 overflow-hidden rounded-xl transform hover:rotate-3 transition-transform duration-300">
           <figure className="flex flex-col items-center">
             <Image src="/img/funcionarios.png" alt="Funcionarios" width={400} height={400} />
             <figcaption className="text-center font-thin text-lg"></figcaption>
           </figure>
+        </div>
 
       
 
